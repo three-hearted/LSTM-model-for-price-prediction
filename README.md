@@ -1,1 +1,1 @@
-# LSTM-model-for-price-prediction
+LSTM-модель для предсказывания последующих котировок BTC/USTD на основе полученных от API Binance данных
